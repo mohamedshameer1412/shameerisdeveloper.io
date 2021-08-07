@@ -1,0 +1,26 @@
+body
+{
+    background: rgb(155, 150, 150) !important;
+    overflow: hidden;
+}
+
+.my-container{
+    background-color: rgb(155, 150, 150);
+    padding: 5%;
+}
+
+.row-1{
+    background-color: rgb(5, 62, 100);
+}
+
+.block{
+    background-color: rgb(58, 135, 211);
+    height: 150px;
+}
+p{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-size: larger;
+    padding: 30%;
+}
